@@ -1,0 +1,1 @@
+print("Change brings opportunity")
